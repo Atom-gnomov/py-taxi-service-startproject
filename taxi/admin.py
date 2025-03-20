@@ -1,4 +1,3 @@
-from multiprocessing.resource_tracker import register
 
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
